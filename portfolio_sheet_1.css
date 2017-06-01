@@ -1,10 +1,10 @@
 #header {
 	font-size: 24pt;
-	font-family: cursive;
-	color: magenta;
+	font-family: papyrus, fantasy;
+	color: salmon;
 }
 body {
-	background-color: #b7d1c4;
+	background-color: maroon;
 }
 
 #sect_header {
@@ -29,6 +29,6 @@ h1 {
 	color: ivory;
 }
 #navi {
-	vertical-align: right;
+	display: inline;
 }
 
