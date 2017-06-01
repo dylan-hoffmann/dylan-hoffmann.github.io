@@ -1,4 +1,4 @@
-#header {
+.header {
 	font-size: 24pt;
 	font-family: papyrus, fantasy;
 	color: salmon;
@@ -7,12 +7,12 @@ body {
 	background-color: maroon;
 }
 
-#sect_header {
+.sect_header {
 	font-family: serif, Verdana;
 	font-size: 18pt;
 	color: #b22222;
 }
-#sub_sect {
+.sub_sect {
 	font-family: "Trebuchet MS", "Courier New", serif;
 	font-size: 16pt;
 	color: crimson;
@@ -23,12 +23,12 @@ h1 {
 	font-size: 20pt;
 	color: coral;
 }
-#int_list {
+.int_list {
 	font-family: "Courier New", serif;
 	font-size: 12pt;
 	color: ivory;
 }
-#navi {
+.navi {
 	display: inline-grid;
 	margin: inherit;
 }
