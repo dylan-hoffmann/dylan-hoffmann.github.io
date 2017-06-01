@@ -30,6 +30,7 @@ h1 {
 }
 #navi {
 	display: inline-grid;
+	margin: inherit;
 }
 
 a:link {
