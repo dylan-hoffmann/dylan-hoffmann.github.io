@@ -1,0 +1,34 @@
+title {
+	font-size: 24pt;
+	font-family: cursive;
+	color: magenta;
+}
+body {
+	background-color: #b7d1c4;
+}
+
+#sect_header {
+	font-family: serif, Verdana;
+	font-size: 18pt;
+	color: #b22222;
+}
+#sub_sect {
+	font-family: "Trebuchet MS", "Courier New", serif;
+	font-size: 16pt;
+	color: crimson;
+}
+
+h1 {
+	font-family: "Trebuchet MS", "Courier New", serif;
+	font-size: 20pt;
+	color: coral;
+}
+#int_list {
+	font-family: "Courier New", serif;
+	font-size: 12pt;
+	color: ivory;
+}
+#navi {
+	vertical-align: right;
+}
+
