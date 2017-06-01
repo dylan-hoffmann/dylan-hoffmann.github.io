@@ -32,3 +32,15 @@ h1 {
 	display: inline;
 }
 
+a:link {
+	font-family: helvetica, serif;
+	color: steelblue;
+}
+a:visited {
+	font-family: cursive, sans-serif;
+	color: slateblue;
+}
+a:hover {
+	font-family: "Comic Sans MS", sans-serif;
+	color: navy;
+}
